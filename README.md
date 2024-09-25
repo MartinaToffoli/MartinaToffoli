@@ -2,7 +2,7 @@
 
 ## :woman_technologist: About Me
 
-I am a Master Degree student in the Artificial Intelligence at the University of Verona. 
+I am a Master's Degree student in the Artificial Intelligence at the University of Verona. 
 I am looking forward to exploring this field through an internship experience. :mag:
 
 ## 🔧 Technologies & Tools
