@@ -2,8 +2,8 @@
 
 ## :woman_technologist: About Me
 
-I am a Master's Degree student in Artificial Intelligence at the University of Verona. 
-I am looking forward to exploring this field through an internship experience. :mag:
+Master's Degree in Artificial Intelligence from the University of Verona.  
+Interested in applying AI techniques to real-world problems. 🔍
 
 ## 🔧 Technologies & Tools
 
@@ -15,9 +15,8 @@ I am looking forward to exploring this field through an internship experience. :
 
 ## 📫 Connect with Me
 
-- Personal email: **toffoli98@gmail.com**
-- University email: **martina.toffoli@studenti.univr.it** (currently active)
-- LinkedIn: (in progress...)
-- Website: (in progress...)
+- 📧 [Email]: [toffoli98@gmail.com](mailto:toffoli98@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/martina-toffoli-1a68253a2/)
+- 🌐 Website: coming soon
 
 **Thanks for visiting!** 👋
